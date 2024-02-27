@@ -1,0 +1,41 @@
+.bk-grey{
+    font-family: helvetica;
+   
+}
+
+
+.bg-light{
+    font-family: helvetica;
+    background-color: black;
+}
+
+.section_2-titulo{
+    padding-top: 20px;
+}
+
+.nosotros{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.portada{
+ width: 700px;
+ height: 400px;
+}
+
+.nosotros .presentacion{
+    text-align: left;
+}
+
+.ubicacion{
+    width: 700px;
+}
+
+.carro{
+
+}
+
+.mensaje{
+    background-color: rgb(230, 230, 230);
+    color: rgb(160, 160, 160);
+    width: 100%;
+}
